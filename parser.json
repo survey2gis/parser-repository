@@ -1,0 +1,12 @@
+{
+  "default": {
+    "filename": "parser.ini",
+    "author": "somebody",
+    "description": "notes"
+  },
+  "testing": {
+  "filename": "testing.ini",
+  "author": "somebody XY",
+  "description": "notes XY"
+}
+}
