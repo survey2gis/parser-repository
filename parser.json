@@ -1,6 +1,6 @@
 {
   "default": {
-    "filename": "./parser/parser.ini",
+    "filename": "./parser/default.ini",
     "author": "somebody",
     "description": "notes"
   },
