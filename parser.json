@@ -1,12 +1,12 @@
 {
   "default": {
     "filename": "./parser/default.ini",
-    "author": "somebody",
-    "description": "notes"
+    "author": "Landesamt für Muster",
+    "description": "Ein Parser für Profile …"
   },
   "testing": {
   "filename": "./parser/testing.ini",
-  "author": "somebody XY",
-  "description": "notes XY"
+  "author": "Behörde für vieles",
+  "description": "Ein Parser für Grabungen und …"
 }
 }
