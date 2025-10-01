@@ -51,6 +51,6 @@ Your parser will be available to all users of the Survey2GIS Parser Generator on
 
 ## File Requirements
 
-- Parser files must be valid `.ini` format
+- Parser files must be valid `.ini` or `.txt` format
 - Use descriptive filenames (lowercase, hyphens preferred)
 - Provide clear, helpful descriptions in `parser.json`
