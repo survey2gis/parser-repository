@@ -1,12 +1,22 @@
 {
-  "default": {
-    "filename": "./parser/default.ini",
-    "author": "Landesamt für Muster",
-    "description": "Ein Parser für Profile …"
+  "parser_desc_min": {
+    "filename": "./parser/parser_desc_min.txt",
+    "author": "Benjamin Ducke",
+    "description": "A 'min' Demo parser to understand the basics of parsing."
   },
-  "testing": {
-  "filename": "./parser/testing.ini",
-  "author": "Behörde für vieles",
-  "description": "Ein Parser für Grabungen und …"
-}
+  "parser_desc_max": {
+    "filename": "./parser/parser_desc_max.txt",
+    "author": "Benjamin Ducke",
+    "description": "A 'max' Demo parser to understand the basics of parsing."
+  },
+  "parser_desc_end": {
+    "filename": "./parser/parser_desc_end.txt",
+    "author": "Benjamin Ducke",
+    "description": "A 'desc' Demo parser to understand the basics of parsing."
+  },
+  "parser_desc_none.txt": {
+    "filename": "./parser/parser_desc_none.txt",
+    "author": "Benjamin Ducke",
+    "description": "A 'none' Demo parser to understand the basics of parsing."
+  }
 }
