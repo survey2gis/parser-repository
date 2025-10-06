@@ -34,7 +34,7 @@ README.md
 {
   "default": {
     "filename": "./parser/default.ini",
-    "author": "Landesamt für Muster",
+    "author": "Landesamt für Abc …",
     "description": "Ein Parser für Profile …"
   }
 }
